@@ -1,0 +1,47 @@
+/* talen box met achtergrond, positionering, border, schaduw en letterkleur */
+.languages {
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+    margin-top: 50px;
+    width: 350px ;
+    height: 200px;
+    background-color: #464b37;
+    border: 2px solid #262b15;
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  
+    line-height: 1.8; 
+    color: black;
+}
+
+/* codetalen box met achtergrond, positionering, border, schaduw en letterkleur */
+.codel {
+    display: flex;
+    flex-direction: column;
+    margin-left:900px;
+    margin-top: -80px;
+    margin-left: 900px;
+    width: 370px ;
+    height: 250px;
+    background-color: #848871;
+    border: 2px solid #262b15;
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  
+    line-height: 1.8; 
+    color: black;
+}
+
+/* skills box met achtergrond, positionering, border, schaduw en letterkleur */
+.skills {
+    display: flex;
+    flex-direction: column;
+    margin-left: 320px;
+    margin-top: -40px;
+    width: 350px ;
+    height: 180px;
+    border: 2px solid #262b15;
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);  
+    line-height: 1.8; 
+    color: black;
+}
